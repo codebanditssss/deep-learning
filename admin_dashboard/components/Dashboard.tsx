@@ -10,7 +10,7 @@ import Announcements from "./Announcements"
 
 const Dashboard = () => {
   const [userRole, setUserRole] = useState("teacher") // 'teacher' or 'dean'
-  const adminName = "Prof. Sharma"
+  const adminName = "Prof. Pooja Batra"
 
   return (
     <div className="flex min-h-screen bg-gray-50">
