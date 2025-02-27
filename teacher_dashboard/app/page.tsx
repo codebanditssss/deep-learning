@@ -13,7 +13,7 @@ export default function Dashboard() {
     <div className="flex flex-col space-y-6 pt-10 md:pt-0">
       <DashboardHeader
         heading="Teacher Dashboard"
-        text="Welcome back, Prof. Jane Smith. Here's an overview of your classes today."
+        text="Welcome back, Prof. Pooja Batra. Here's an overview of your classes today."
       >
         <div className="flex items-center gap-2">
           <Button variant="outline" size="sm">
