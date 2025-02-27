@@ -106,7 +106,7 @@ export function DashboardSidebar() {
             </Avatar>
             <div>
               <div className="font-semibold">Teacher Dashboard</div>
-              <div className="text-xs text-muted-foreground">Prof. Jane Smith</div>
+              <div className="text-xs text-muted-foreground">Prof. Pooja Batra</div>
             </div>
           </div>
           <Button variant="ghost" size="icon" onClick={toggle} className="md:hidden">
