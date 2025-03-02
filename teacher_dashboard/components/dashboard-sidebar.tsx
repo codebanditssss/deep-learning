@@ -70,11 +70,6 @@ const sidebarItems: SidebarItem[] = [
     href: "/security",
     icon: Lock,
   },
-  {
-    title: "Mobile Access",
-    href: "/mobile",
-    icon: Smartphone,
-  },
 ]
 
 export function DashboardSidebar() {
